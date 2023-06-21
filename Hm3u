@@ -1,0 +1,77 @@
+#EXTM3U
+
+#EXTINF:- 1,Canal 11
+https://stream-01.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2n6grt4CEDDef-XHWUOX95xjUGBg0-o2e3URQDne3Vrc)/dm/3/x80ac48/s/live-2.m3u8#cell=lnyc
+
+#EXTINF:- 1,canal 9
+https://stream-03.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY0-lhjctk7xo-p-KEI90lvpAuligSuKvItYaIupqZ7J6)/dm/3/x7gy059/d/live-1.m3u8#cell=lnyc
+
+#EXTINF:- 1, canal 47
+https://ss9.domint.net:3040/ame_str/amecanal47/chunklist_w1220930584.m3u8
+
+#EXTINF: -1, canal 2
+https://www.dailymotion.com/cdn/live/video/x809r6i.m3u
+
+
+#EXTINF:- 1, canal 7
+https://d1coqlhpf8wrax.cloudfront.net/hls/antena7_360.m3u8
+
+#EXTINF:- 1, canal 4
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/chunklist_w1286099331_b831072.m3u8
+
+#EXTINF:- 1, Telemundo
+https://live.telelatinohd.com:8080/MzguNTIuMjIyLjE3OA==/48_.m3u8?token=QEZHn7DJ7qwql5Gu8fCwEA&expires=1687395773
+
+#EXTINF:- 1, Disney Chanel
+https://live.telelatinohd.com:8080/MzguNTIuMjIyLjE3OA==/353_.m3u8?token=agh-PTiVtOAMb3JiKkHBPg&expires=1687396020
+
+#EXTINF:-  1,Disney Junior
+https://live.telelatinohd.com:8080/MzguNTIuMjIyLjE3OA==/109_.m3u8?token=YFWBuDj0cjBiESRCHeA53Q&expires=1687396167
+
+#EXTINF:- 1,TNT
+https://live.telelatinohd.com:8080/MzguNTIuMjIyLjE3OA==/41_.m3u8?token=M3fK1FDtfldLgudjSFCEiQ&expires=1687396409
+
+#EXTINF:- 1, Universal Chanel
+https://live.telelatinohd.com:8080/MzguNTIuMjIyLjE3OA==/79_.m3u8?token=SgpbA4zquV2ny6Tgx7BmPA&expires=1687396518
+
+#EXTINF:- 1, Espace
+https://live.telelatinohd.com:8080/MzguNTIuMjIyLjE3OA==/39_.m3u8?token=ABFdSK1PopjkFNoue-iWCA&expires=1687396665
+
+#EXTINF:- 1, WANER CHANNER
+https://live.telelatinohd.com:8080/MzguNTIuMjIyLjE3OA==/40_.m3u8?token=AZyRp5pyA5iJFkuHDuFWXA&expires=1687396804
+
+#EXTINF:- 1, VENUS XXX
+https://live.telelatinohd.com:8080/MzguNTIuMjIyLjE3OA==/126_.m3u8?token=yLVLqZuKV9_69cDJqhOqQQ&expires=1687396998
+
+#EXTINF:- 1, AXN
+https://live.telelatinohd.com:8080/MzguNTIuMjIyLjE3OA==/78_.m3u8?token=w5rvGoFPkYrQk6onCvglJw&expires=1687397106
+
+#EXTINF:- 1, CINEMAX
+https://live.telelatinohd.com:8080/MzguNTIuMjIyLjE3OA==/43_.m3u8?token=WBhS6VknW_7XcZFsTn3KGw&expires=1687397215
+
+#EXTINF:- 1, CINE CANAL
+https://live.telelatinohd.com:8080/MzguNTIuMjIyLjE3OA==/44_.m3u8?token=Gkc8SgbYHENh-mgm_I7IPw&expires=1687397317
+
+#EXTINF:- 1,  Golden Plus
+https://live.telelatinohd.com:8080/MzguNTIuMjIyLjE3OA==/73_.m3u8?token=y5Lq5TF5bHiKlNHqjg27Mg&expires=1687397423
+
+#EXTINF:- 1, Discovery kids
+https://dtvott-abc.akamaized.net/dash_live_1079/manifest.MPD
+
+#EXTINF:- 1, CARTÓN NETWORK
+https://usher.ttvnw.net/api/channel/hls/8kkctoon.m3u8?acmb=e30%3D&allow_source=true&fast_bread=true&p=1509217&play_session_id=88dc0e8e37eb768911f7e8226ac603e7&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=54f72f6a7fb6aada26749105db618029bec40faf&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%228kkctoon%22%2C%22channel_id%22%3A728853492%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22912722e57e6fcbb0%22%2C%22expires%22%3A1687384963%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%2238.52.222.178%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1&warp=true&cdm=wv&player_version=1.20.0
+
+#EXTINF:- 1, TOON CAST
+https://vsd170.mycdn.me:443/hls/3997941107243.m3u8/sig/ecA7D5OL6i8/expires/1687470419739/srcIp/38.52.222.178/urls/45.136.20.44/clientType/0/srcAg/CHROME_ANDROID/mid/5420404514347/3997941107243_high/index.m3u8
+
+#EXTINF:- 1, animal Planet
+https://vsd134.mycdn.me:443/hls/4044104534739.m3u8/sig/xMJUPi4ZB5U/expires/1687470705334/srcIp/38.52.222.178/urls/185.226.52.52/clientType/0/srcAg/CHROME_ANDROID/mid/5178071916243/4044104534739_high/index.m3u8
+
+#EXTINF:- 1, Discovery Channel
+https://video-weaver.iad03.hls.ttvnw.net/v1/playlist/CtYFtrXocg-07Zp0eHngpkNEA8kdxge21RvhpuMb32-BjEfhNnMbYBt_x9kIeQuO56b1eg_6iOy4PpcQ0x_bKU0xisncvnPIS8wcdK628fc9d4CNpRiyy1BGazINUoTT7A_8fGppjVI-G7hPmhKMg2Y7FTds857oNOjhZBU3JbUYO_U6q2i6vhxAAS36seFl-1IqDzojbqwvGQ1sLk84Rd1YZ_ifVPGKFaHoSTp48ZBMn-SRjzCeMdc5W7SZoD4mU0EkOCqqCY4Hkg4fUhmx3Kb5Hj05MTXe0dKn9dMEpyAABTw3Wj8HEh5OrYNxh3_9IBmO17IMAb8zHUGQq-lKSvonxsWW7AptKu569rK_wTCbjCDf0FPY9fHO82_dT-tjn5NoAMhyI3OhOTgRldfvdP8vCeZYLpBY21VyLbBod4DTg26O-8GXgSYnoUrfDOKQ1LKriWB6mDLRB18sF4pUb7YRwVU3K1uJGYtc-vtWmctjVN7F6629zHnecmssiXtGnzSuAxQGSWjoRjN-jCKbx1I1dvBd5bfc015DlNJowNNYNlQndaXX7F7T43cTFbNhUqhRPzCWYbv_8fQC6ZRKFmYquD8MJawaX5PEuAveH9tHpdlD6eARcTFjAWmwJuVtN6QpBoN4patpmCa-W2x4R2I75ZBAQ4aty_sR89dA-qO-EbC6LZxgK0ZfO182H-qyzE0vRHjtfzX2EB75fqq-yCqEfzmmBhO3hV6LdtwIphBWupIK0O9sQfOK09VtwyfGKnfZ8D327MtPVKCP0HEmwN70UsBao3UAMDpj47aOfeRLMQ9_o7bSJ84eewbIcjQ00ChFKCT3kIrpyKgvhkovOH-QurhCUVqlM_QgB3kKmbqC3Dn2ncohgcnFTpSGj3vGvnhO99bWSmNV7vRFraXjobNhFLA7CuOys3JWNtOUrCLpmY3Ow53uwnUpTMYFeGf1dCLm31v7dUtsGgx-L9V3tx6OBILGDzIgASoJZXUtd2VzdC0yMO8G.m3u8
+
+#EXTINF:- 1, BHO 2
+https://video-weaver.iad03.hls.ttvnw.net/v1/playlist/CtwFIuQHZTaVgqOjMGdSQwJlmRpWLfXDdfqtNoKIB88BzTZHdChOflmmq166QGgNXr_8qK6lJHkWacqXDgCGzZOZ6S7Fh0Moc_o8T6sYKb6iVo9einAnvWG6-jNf1Ipci9O8S46afZVrVePx__btgaWwc_lJ6zPcjog2fRtszQIt8JfHoIjK4qNeBWhIGW6jCHZQGt4QijkmmMH0p5PPqLUN-dHAvz6Be5JgguXUMoyroVOIsrxbOUXRh996H1eAZxoH_vof5CyQBZXOpG4r-K8lyXt5zpNKBpO-q-OcXOtvtB1upgX3q73kSyV6Y4AxWDBj-iT1lzy34aZRVReppmgoAul59vWEdpHfqiGPkWi8t7_7YcQb8ia2UxcswZsMiSv-KTzZPXtl4r4Nz7USnq72i1aYyC2ag7afSZNiRBCxI51XbMWDgh3pZvKv4Q4toi7nsgmGpDNPsHDUJwkTlYc1CXnuLhx0CiBWKQy6gVj6huhmW-ljOXPJf_0Aye6imo0L1gadukbtzhR1aoI42jbxoSEyNxtBJjAfs_Gh-hIG2GZ7e5-jnOvAEV0GMWRDcO8VfSW3oX12-1Zoh62LmNOCVmF2q2QY30V_SsAipRw7Cgl1bsYnkJY9tC5gfws2r9r8-SEzByGnw3bn8c_7GdRve56S9Ha2_aR2sBXMiYHEyxwgBEbXOCq2lKVEHE-nMVXGb6pDMruh72ernCFQHe95Qt6S08qmnSyfgo-n1apvrdwJXIEOA7pQhQluEFr5YEIWKxEGz-5dkxQZ1MrFMt0EUfJZu3a5wqDV3rI7-RCB91UoSjNopU0jYi001oxG_9mMUp7QRZ-jQ4AB5Z6zIfCjeEW9P0DWt_K6VHxmo7wa-pDVZ375qRchbGSlaKGVmnaLxHWqCDNeR8QyluwgzWoaz3GrulC3SCdOZ_-vWxsbLGnE92MWMdMZfV5XGXNm_8qxhEmumxgvyXG5cRPqGgwLg8ZuvWdSywF5e-YgASoJZXUtd2VzdC0yMO8G.m3u8
+
+#EXTINF:- 1, HISTORIA
+https://video-weaver.iad03.hls.ttvnw.net/v1/playlist/CtgF7s2WqaxJEror3267zDVsc8FobNj_2dmdNhW2UKxhiuq3BZhxAygdKEKdf8Onu_F10bIoVMLUB4j5bC3HYbWnIhIETrZd1usDhxciLwxmAX3l-v4SFSN-W-e_fnGqVwlvYwhLTPk5sBkkto7YXhUslQEB-rurfAjFuHCTbTccURbyk1g3SufMGhI4ZFnZVAx9q1YLp_STtasyWnOKihH5KUOapo4WflcTR04svPS3S11qQ5S5hKTovDmY11CXpPwpHmk1zv8-i25JkrRXqOTTbztXIcn1HqK1J8CrOZ0p5rF_tEf73uYlDo9Y3wFKPGnqLhXCLxUSw9Wx04Qua4UOa9lz5Vjc29UNkLW5Eq9nTWp-4VKdfTcGxniAh8mPnku8knuCYYLQ__CW5QG1eBQbvuyVE8icNo45rvC3mQyEmFDxjdIrzmyGjd1ROv1eL2DlvCB1-UhRUYE9yETQmDL5n8fc8GJ6-uPmtUVyFANZ4IfKrJz_CBtw5rJ326gabLd_7W8W2TSWuMbzFjYotYB-8PqhKm-TUeKzR9nZYBEgmDs6XZiWsyOiAgs5HvSMCIHpd_FrO1LZaqlvHdR2GZkKSCaCxqVqVa5Gd8FMNJg_Sxppa5EKxDT8Y8qKwsXXIMrvwbEfksStz9e_VxldF0fdnySBwSnZJekOWdcZU1RHriM8iQ-9Ka5ibq7nAYlqyxHP5AIX7SMM3ovYjy52ej5Joe_-96eirm_SXWJ2Ep1M9PEalgYv-fqvhD8yXxn_alJmz4oDZcx7KiXVKOa6wb8ZwE5GLesNxjbgcZUrixksYSP-qFwxzs9qNGIb1LFk9eVwLBGuyv5sCNhGliXXit2_u8d_koAfMb20z0IA1RyQZt3Um66fJuB_-DAH8FZcXXlyx2BpqB1oAg2f9_vj3mOfLeSxHD0h0NXyEficbmstYxHoIdH3No_EAUPkD3VReoBfve4oSkeuLWsaDOcDJ0tAXAnup6CzqiABKglldS13ZXN0LTIw7wY.m3u8
